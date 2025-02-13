@@ -1,7 +1,5 @@
 # Practice Challenge: Pizza Shop
 
-![Pizza Screen Recording](https://curriculum-content.s3.amazonaws.com/react/pizza.gif)
-
 Welcome to your first day at the Pizzeria!
 
 Today, you are tasked to building an online menu of all the pizzas that the
