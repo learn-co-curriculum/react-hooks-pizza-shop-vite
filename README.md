@@ -1,8 +1,8 @@
-# Practice Challenge: Flatiron Pizza
+# Practice Challenge: Pizza Shop
 
 ![Pizza Screen Recording](https://curriculum-content.s3.amazonaws.com/react/pizza.gif)
 
-Welcome to your first day at the Flatiron Pizzeria!
+Welcome to your first day at the Pizzeria!
 
 Today, you are tasked to building an online menu of all the pizzas that the
 pizzeria offers.
@@ -16,8 +16,8 @@ Run `npm install` to install our dependencies.
 
 Then, run `npm run server` to start up `json-server` on `http://localhost:3001`.
 
-In another tab, run `npm start` to start up our React app at
-`http://localhost:3000`.
+In another tab, run `npm run dev` to start up our React app at
+`http://localhost:5173`.
 
 ## Deliverables
 
